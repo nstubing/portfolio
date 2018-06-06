@@ -1,0 +1,55 @@
+.button-front{
+	color:white;
+	background:linear-gradient(red,black);
+	padding:50px;
+	font-size: 80px;
+	margin:70px;
+	border-radius: 15px;
+
+
+	
+}
+
+.do{
+	font-size: 200px;
+	padding:50px;
+}
+.logo-pic{
+	padding:20px;
+	width:100%;
+	margin-bottom: 80px;
+}
+body{
+	background:linear-gradient(black,black,maroon,maroon,maroon);
+}
+
+#card-btn{
+	color:white;
+}
+.card{
+	margin:15px;
+}
+
+.card-text{
+	font-size: 20px;
+	text-align: left;
+}
+.carousel-caption{
+	top:0;
+	bottom:auto;
+	color:red;
+}
+.carousel-text{
+	font-size: 7em;
+}
+.carousel-item{
+	margin-top: 20px;
+}
+.am{
+	font-size: 7em;
+	color:white;
+}
+.facts{
+	color:white;
+	margin:20px;
+}
